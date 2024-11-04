@@ -25,7 +25,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 
 * **[format string 0](Binary%20Exploitation/format%20string%200/format%20string%200.md) (Solved)**
 * **[heap 0](Binary%20Exploitation/heap%200/heap%200.md) (Solved)**
-* format string 1 (Solved)
+* **[format string 1](Binary%20Exploitation/format%20string%201/format%20string%201.md) (Solved)**
 * heap 1 (Solved)
 * heap 2 (Solved)
 * heap 3 (Solved)
