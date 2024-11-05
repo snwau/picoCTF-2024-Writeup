@@ -21,7 +21,7 @@ As the purpose of this repository is to document my personal progress, capturing
 As time permits I'll be adding further individual challenge write ups for all those marked as `(Solved)`, based on my notes taken during the event. Additionally there may be the odd challenge that I failed to solve but may want to document my progress, marked `(Unsolved - Progress Writeup)`.
 
 <details>
-  <summary>Binary Exploitation (6 solutions)</summary>
+  <summary>Binary Exploitation (7 solutions)</summary>
 
 * **[format string 0](Binary%20Exploitation/format%20string%200/format%20string%200.md) (Solved)**
 * **[heap 0](Binary%20Exploitation/heap%200/heap%200.md) (Solved)**
@@ -29,9 +29,9 @@ As time permits I'll be adding further individual challenge write ups for all th
 * **[heap 1](Binary%20Exploitation/heap%201/heap%201.md) (Solved)**
 * **[heap 2](Binary%20Exploitation/heap%202/heap%202.md) (Solved)**
 * **[heap 3](Binary%20Exploitation/heap%203/heap%203.md) (Solved)**
-* format string 2 (Solved)
+* **[format string 2](Binary%20Exploitation/format%20string%202/format%20string%202.md) (Solved)**
 * format string 3 (Solved)
-* **[babygame03](Binary%20Exploitation/babygame03/babygame03.md) (Solved)**
+* **[babygame03](Binary%20Exploitation/babygame03/babygame03.md) (Solved - WRITE UP IN PROGRESS)**
 * high frequency troubles (Unsolved)
 
 </details>
