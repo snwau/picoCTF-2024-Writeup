@@ -62,11 +62,11 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (TODO solutions)</summary>
+  <summary>General Skills (3 solutions)</summary>
 
-* Super SSH (Solved)
-* Commitment Issues (Solved)
-* Time Machine (Solved)
+* **[Super SSH](General%20Skills/Super%20SSH/Super%20SSH.md) (Solved)**
+* **[Commitment Issues](General%20Skills/Commitment%20Issues/Commitment%20Issues.md) (Solved)**
+* **[Time Machine](General%20Skills/Time%20Machine/Time%20Machine.md) (Solved)**
 * Blame Game (Solved)
 * Collaborative Development (Solved)
 * binhexa (Solved)
