@@ -62,14 +62,14 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (3 solutions)</summary>
+  <summary>General Skills (5 solutions)</summary>
 
 * **[Super SSH](General%20Skills/Super%20SSH/Super%20SSH.md) (Solved)**
 * **[Commitment Issues](General%20Skills/Commitment%20Issues/Commitment%20Issues.md) (Solved)**
 * **[Time Machine](General%20Skills/Time%20Machine/Time%20Machine.md) (Solved)**
-* Blame Game (Solved)
-* Collaborative Development (Solved)
-* binhexa (Solved)
+* **[Blame Game](General%20Skills/Blame%20Game/Blame%20Game.md) (Solved)**
+* **[Collaborative Development](General%20Skills/Collaborative%20Development/Collaborative%20Development.md) (Solved)**
+* **[binhexa](General%20Skills/binhexa/binhexa.md) (Solved)**
 * Binary Search (Solved)
 * endianness (Solved)
 * dont-you-love-banners (Solved)
