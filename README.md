@@ -62,7 +62,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (5 solutions)</summary>
+  <summary>General Skills (9 solutions)</summary>
 
 * **[Super SSH](General%20Skills/Super%20SSH/Super%20SSH.md) (Solved)**
 * **[Commitment Issues](General%20Skills/Commitment%20Issues/Commitment%20Issues.md) (Solved)**
@@ -70,9 +70,9 @@ As time permits I'll be adding further individual challenge write ups for all th
 * **[Blame Game](General%20Skills/Blame%20Game/Blame%20Game.md) (Solved)**
 * **[Collaborative Development](General%20Skills/Collaborative%20Development/Collaborative%20Development.md) (Solved)**
 * **[binhexa](General%20Skills/binhexa/binhexa.md) (Solved)**
-* Binary Search (Solved)
-* endianness (Solved)
-* dont-you-love-banners (Solved)
+* **[Binary Search](General%20Skills/Binary%20Search/Binary%20Search.md) (Solved)**
+* **[endianness](General%20Skills/endianness/endianness.md) (Solved)**
+* **[dont-you-love-banners](General%20Skills/dont-you-love-banners/dont-you-love-banners.md) (Solved)**
 * SansAlpha (Unsolved)
 
 </details>
