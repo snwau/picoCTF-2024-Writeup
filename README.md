@@ -78,9 +78,9 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (TODO solutions)</summary>
+  <summary>Reverse Engineering (1 solutions)</summary>
 
-* packer (Solved)
+* **[packer](Reverse%20Engineering/packer/packer.md) (Solved)**
 * FactCheck (Unsolved)
 * WinAntiDbg0x100 (Solved)
 * Classic Crackme 0x100 (Solved)
