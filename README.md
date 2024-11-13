@@ -78,14 +78,14 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (1 solutions)</summary>
+  <summary>Reverse Engineering (3 solutions)</summary>
 
 * **[packer](Reverse%20Engineering/packer/packer.md) (Solved)**
 * FactCheck (Unsolved)
-* WinAntiDbg0x100 (Solved)
+* **[WinAntiDbg0x100](Reverse%20Engineering/WinAntiDbg0x100/WinAntiDbg0x100.md) (Solved)**
 * Classic Crackme 0x100 (Solved)
 * weirdSnake (Unsolved)
-* WinAntiDbg0x200 (Solved)
+* **[WinAntiDbg0x200](Reverse%20Engineering/WinAntiDbg0x200/WinAntiDbg0x200.md) (Solved)**
 * WinAntiDbg0x300 (Unsolved)
 
 </details>
