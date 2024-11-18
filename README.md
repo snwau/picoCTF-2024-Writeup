@@ -91,10 +91,10 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Web Exploitation (TODO solutions)</summary>
+  <summary>Web Exploitation (2 solutions)</summary>
 
-* Bookmarklet (Solved)
-* WebDecode (Solved)
+* **[Bookmarklet](Web%20Exploitation/Bookmarklet/Bookmarklet.md) (Solved)**
+* **[WebDecode](Web%20Exploitation/WebDecode/WebDecode.md) (Solved)**
 * IntroToBurp (Solved)
 * Unminify (Solved)
 * No Sql Injection (Solved)
