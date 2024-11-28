@@ -48,14 +48,14 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Forensics (TODO solutions)</summary>
+  <summary>Forensics (5 solutions)</summary>
 
-* Scan Surprise (Solved)
-* Verify (Solved)
-* CanYouSee (Solved)
-* Secret of the Polyglot (Solved)
+* **[Scan Surprise](Forensics/Scan%20Surprise/Scan%20Surprise.md) (Solved)**
+* **[Verify](Forensics/Verify/Verify.md) (Solved)**
+* **[CanYouSee](Forensics/CanYouSee/CanYouSee.md) (Solved)**
+* **[Secret of the Polyglot](Forensics/Secret%20of%20the%20Polyglot/Secret%20of%20the%20Polyglot.md) (Solved)**
 * Mob psycho (Unsolved)
-* endianness-v2 (Solved)
+* **[endianness-v2](Forensics/endianness-v2/endianness-v2.md) (Solved)**
 * Blast from the past (Unsolved)
 * Dear Diary (Unsolved)
 
@@ -91,12 +91,12 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Web Exploitation (3 solutions)</summary>
+  <summary>Web Exploitation (4 solutions)</summary>
 
 * **[Bookmarklet](Web%20Exploitation/Bookmarklet/Bookmarklet.md) (Solved)**
 * **[WebDecode](Web%20Exploitation/WebDecode/WebDecode.md) (Solved)**
 * **[IntroToBurp](Web%20Exploitation/IntroToBurp/IntroToBurp.md) (Solved)**
-* Unminify (Solved)
+* **[Unminify](Web%20Exploitation/Unminify/Unminify.md) (Solved)**
 * No Sql Injection (Solved)
 * Trickster (Unsolved)
 * elements (Unsolved)
