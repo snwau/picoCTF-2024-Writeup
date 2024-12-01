@@ -16,9 +16,7 @@ As the purpose of this repository is to document my personal progress, capturing
 
 ## Challenges ##
 
-**This event write up is a work in progress (new solutions added as the write-ups are completed).**
-
-As time permits I'll be adding further individual challenge write ups for all those marked as `(Solved)`, based on my notes taken during the event. Additionally there may be the odd challenge that I failed to solve but may want to document my progress, marked `(Unsolved - Progress Writeup)`.
+The write-ups for individual challenges solved during the event.
 
 <details>
   <summary>Binary Exploitation (9 solutions)</summary>
@@ -37,10 +35,10 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Cryptography (TODO solutions)</summary>
+  <summary>Cryptography (2 solutions)</summary>
 
-* interencdec (Solved)
-* Custom encryption (Solved)
+* **[interencdec](Cryptography/interencdec/interencdec.md) (Solved)**
+* **[Custom encryption](Cryptography/Custom%20encryption/Custom%20encryption.md) (Solved)**
 * C3 (Unsolved)
 * rsa_oracle (Unsolved)
 * flag_printer (Unsolved)
